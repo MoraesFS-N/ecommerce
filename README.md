@@ -27,13 +27,12 @@ npx nx serve
 ```
 
 O projeto será servido por padrão em http://localhost:4200/.
+Caso a porta 4200 já esteja em uso basta aceitar para utilizar uma nova porta.
 
-Caso a port ja esteja em uso basta aceitar para utilizar uma nova porta.
-
-´´´
+```
 ? Port 4200 is already in use.
 Would you like to use a different port? Yes
-´´´
+```
 
 ## Executar tarefas independentes
 
